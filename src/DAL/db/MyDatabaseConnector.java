@@ -28,9 +28,9 @@ public class MyDatabaseConnector {
 
         // Set the database connection properties using values from the configuration file
         dataSource.setServerName("10.176.111.34");
-        dataSource.setDatabaseName("MytunesYTMusic_MRS2023");
-        dataSource.setUser("CSe2023a_e_10");
-        dataSource.setPassword("CSe2023aE10#23");
+        dataSource.setDatabaseName("wilras01_MyTunes_light");
+        dataSource.setUser("CSe2023a_e_27");
+        dataSource.setPassword("CSe2024aE27#24");
         dataSource.setPortNumber(1433);
         dataSource.setTrustServerCertificate(true);
 
